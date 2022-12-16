@@ -1,7 +1,7 @@
 # Excel-Projects
 showcase some excel dashboards created using pivot table and pivot chart
 
-![This is an image](https://github.com/Larissa-Bememba/Excel-Projects/blob/main/images/dashboard.png)
+![This is an image](https://github.com/Larissa-Bememba/Excel-Projects/blob/main/images/dashboard.PNG)
 
 Data Sheet
 
