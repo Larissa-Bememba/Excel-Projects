@@ -9,6 +9,6 @@ Data sheet include the data of the store company with the column heading as orde
 - Convert the data into table
 - Insert the month column using the TEXT function
 
-![This is an image](https://github.com/Larissa-Bememba/Excel-Projects/tree/main/images/Data_sample.png)
+![This is an image](https://github.com/Larissa-Bememba/Excel-Projects/tree/main/images/Data_sample.PNG)
 
 
